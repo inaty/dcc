@@ -1,2 +1,2 @@
-# diy-compiler
-Building a DIY C compiler
+# dcc
+Building a my DIY C Compiler.
